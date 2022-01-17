@@ -5,13 +5,17 @@ touch
 cat
 git add
 git add .
-git commit -m " "
+git commit 
 git push
 git fetch
 git pull
 git log
 git show
 git blame
+git diff
 echo
+ls
+git reset HEAD~1
+
 
 
