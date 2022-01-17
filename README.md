@@ -1,4 +1,5 @@
 # Practice_Git_commands
+```
 git clone
 cd
 touch
@@ -16,6 +17,4 @@ git diff
 echo
 ls
 git reset HEAD~1
-
-
-
+```
