@@ -9,7 +9,6 @@ git add .
 git commit 
 git fetch
 git pull
-git log
 git show
 git blame
 git diff
@@ -19,5 +18,7 @@ git reset HEAD~1
 git branch
 git merge
 git push
+git log
+
 
 ```
